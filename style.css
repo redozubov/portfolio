@@ -171,7 +171,7 @@ body {
 
 .page-footer {
   padding: 40px 0;
-  background-color: #00417d;
+  background-color: #0dcbe4;
   color: #ffffff;
 }
 
@@ -180,15 +180,15 @@ body {
   color: inherit;
   text-decoration: none;
   background-repeat: no-repeat;
-  background-position: left;
+  background-position: right;
 }
 
 .footer-email {
   padding-left: 30px;
-  background-image: url("img/icon-email-footer.svg");
+  background-image: none;
 }
 
 .footer-phone {
   padding-left: 25px;
-  background-image: url("img/icon-phone-footer.svg");
+  background-image: none;
 }
